@@ -2,8 +2,8 @@
 Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
 # Author
-* Kavengi00
-Created on 23rd Feb, 2024
+**Kavengi00**
+* Created on 23rd Feb, 2024
 
 # Acknowledgements
 Competition on Kaggle
