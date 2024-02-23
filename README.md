@@ -1,8 +1,8 @@
-# Titanic-Machine_Learning_from_Disaster
+# Titanic_Machine_Learning_from_Disaster
 Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
 # Author
-('Nelly Alex')
+'Nelly Alex'
 Created on 23rd Feb, 2024
 
 # Acknowledgements
