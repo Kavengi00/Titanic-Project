@@ -19,11 +19,15 @@ Data Preparation
 Modeling
 Evaluation
 # Libraries used
-Numpy
+. Numpy
 Pandas
 Seaborn
 Sickit-Learn
-  pip install numpy, pandas, seaborn, sklearn
+matplotlib
+shap
+pickle
+Imbalanced-Learn
+
 # Business Understanding
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
