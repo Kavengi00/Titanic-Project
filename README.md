@@ -98,3 +98,6 @@ Models trained
 * Voting Classifier
 # Evaluation
 AdaboostClassifier achieved the maximum accuracy of 93.03%.
+
+# Web App
+Created a web app for the project using streamlit 
